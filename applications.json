@@ -5415,21 +5415,17 @@
             ]
         },
         {
-            "short_description": "Free and offline password manager. ",
-            "categories": [
-                "security"
-            ],
-            "repo_url": "https://github.com/swiftyapp/swifty",
-            "title": "Swifty",
-            "icon_url": "https://getswifty.pro/images/brand@2x.png",
-            "screenshots": [
-                "https://alchaplinsky.com/images/misc/swifty_screen_01.png",
-                "https://alchaplinsky.com/images/misc/swifty_screen_02.png"
-            ],
-            "official_site": "https://getswifty.pro",
-            "languages": [
-                "javascript"
-            ]
+             "short_description": "Free, local-first secrets and password manager with no account.",
+             "categories": ["security"],
+             "repo_url": "https://github.com/fwdai/rowel",
+             "title": "Rowel",
+             "icon_url": "https://rowel.app/apple-touch-icon.png",
+             "screenshots": [
+              "https://raw.githubusercontent.com/fwdai/rowel/main/docs/screenshots/lock-screen.png",
+              "https://raw.githubusercontent.com/fwdai/rowel/main/docs/screenshots/card-view.png"
+             ],
+             "official_site": "https://rowel.app",
+             "languages": ["rust", "typescript"]
         },
         {
             "short_description": "Frugal nativemacOS macOS Syncthing application bundle. ",
